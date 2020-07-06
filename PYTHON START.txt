@@ -1,0 +1,75 @@
+﻿int = number
+str= text 
+flaot = 10.2
+liet = 
+[] 
+lest car= ["0 BMW", "1NASSAN","2MOSTOBESHE" , "3CADELACK"]
+cars [1]="kia" 
+[-2] 
+[-1] 
+#index_car=cars.index("BMW")  
+#count_car=car.count("NASSAN") 
+#cars.pop() 
+cars.extend(speed) 
+index بحث
+cars.append("kia") 
+car.insert (2, "kia ")
+cars.remove("BMW") 
+#cars.clear 
+cars.sort() 
+cars.reverse()  
+#cars.copy()
+coloer("red", "geen", "black ") 
+Function 
+def douha(name, job ): obejectve
+    print ("Hello"+ name+ "you are" +job) 
+ 
+douha(" Ali", "doctor" )  
+douha(" Ahmed", "tech")
+return 
+or 
+and 
+elif  elnes if  
+==
+<=
+>=
+=!
+<
+>
+ {} []  :
+#print(Gared.get(110, "Please Try aign"))   "Please Try aign"
+for x in range(5,100):
+    print (x) 100
+for x in range(5,100):
+    print (x((
+
+open [] "اسم الملف "  اضيف cloes(0)
+r اقراء
+r+ اقراء و اكتب 
+aاضيف في النهائية 
+w اكتب فقط
+
+هل الملف قابل للقراء #print (file.readable())
+print (file.read()) اقراء الملف 
+print(file.readline()) قراءة سطر
+print(file.readlines()) قراءة سطر 
+ print(file.readline())قراءة سطر 
+file.write("ahmed=lawer") الكتابة على الملف
+لانشاء ملف #file = open("index.txt","w") اسم الملف و كتاب  w
+ثم  file.write("welcome in company ")للكتابة 
+#print (file.writable) هل الملف قابل للكتابة 
+Modules كودات جاهزة للاستخدام 
+py -m pip كل تعليمات ال pip في cmd 
+py -m pip install python -docx لتنزيل الاضافات خارج بايثون اكتب install و بعدها اسم الباكج
+
+
+class phone:
+    def __init__(self, modle, size , is_toush , price):
+        self.modele =modle
+        self.is_toush = is_toush
+        self.size = size
+        self.price = price
+
+class tablet(phone): للوراثة
+
+ 
